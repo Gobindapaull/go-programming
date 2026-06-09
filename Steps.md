@@ -15,4 +15,5 @@
 - go run .\09_constant\main.go
 - go run .\10_if_else\main.go
 - go run .\11_loop\main.go
+- go run .\12_switch\main.go
 - 
