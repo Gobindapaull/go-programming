@@ -1,0 +1,17 @@
+- https://go.dev/
+- go version ## go1.26.4 windows/amd64
+- go env
+- go env GOVERSION
+
+- go mod init basics
+- go run .\01_setup\main.go
+- go run .\02_variables\main.go
+- go run .\03_packages\main.go
+- go run .\04_short_variable\main.go
+- go run .\05_string\main.go
+- go run .\06_int\main.go
+- go run .\07_float\main.go
+- go run .\08_boolean\main.go
+- go run .\09_constant\main.go
+- go run .\10_if_else\main.go
+- 
