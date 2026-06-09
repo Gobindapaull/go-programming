@@ -14,4 +14,5 @@
 - go run .\08_boolean\main.go
 - go run .\09_constant\main.go
 - go run .\10_if_else\main.go
+- go run .\11_loop\main.go
 - 
