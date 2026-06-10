@@ -17,11 +17,6 @@
 # push
 - git push -u origin main
 
-- git add git.md
-- git commit -m "Update git.md"
-- git push
-- git status
-
 - git add .
 - git commit -m "loop"
 - git push -u origin main
