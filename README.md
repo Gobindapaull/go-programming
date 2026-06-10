@@ -1,8 +1,8 @@
 # go-programming
-All basics and fundamentals about Go programming
+All basics about Go programming
 
-
-Run 
-go run app.go
+- go version ## go1.26.4 windows/amd64
+- go env
+- go env GOVERSION
 
 
