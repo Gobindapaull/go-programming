@@ -1,0 +1,6 @@
+- mkdir eth-block
+- cd eth-block
+- go mod init eth-block
+- go get github.com/ethereum/go-ethereum/ethclient
+- go mod tidy
+- go run main.go
