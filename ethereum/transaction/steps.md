@@ -1,0 +1,8 @@
+- go version
+- mkdir sepolia-tx
+- cd sepolia-tx
+- go mod init sepolia-tx
+- go get github.com/ethereum/go-ethereum
+- go get github.com/joho/godotenv
+- go mod tidy
+- go run main.go
