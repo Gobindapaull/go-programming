@@ -22,3 +22,5 @@ func main() {
 	fmt.Println("Private Key: 0x" + privateKeyString)
 	fmt.Println("=======================================================================================")
 }
+
+// Generate ethereum wallet and private key
