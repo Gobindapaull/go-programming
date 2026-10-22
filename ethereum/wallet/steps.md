@@ -1,0 +1,6 @@
+- go version
+- mkdir go-wallet
+- cd go-wallet
+- go mod init go-wallet
+- go get github.com/ethereum/go-ethereum
+- go run main.go
